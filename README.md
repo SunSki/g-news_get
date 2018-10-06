@@ -1,0 +1,1 @@
+# g-news_get
